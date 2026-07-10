@@ -9,6 +9,6 @@ Pre-final year CS undergrad (AI & ML) building practical machine learning projec
 - 👁️ [Optic Disc Classification (Glaucoma Screening)](https://github.com/Prabhleen11/Optic-Disc-Classification-using-Deep-Learning) — CNN/ResNet50 pipeline on retinal images for early-stage glaucoma detection, evaluated with AUC-ROC.
 - 💬 [Sentiment Analysis Chatbot](https://github.com/Prabhleen11/Sentiment-Analysis-Chatbot-for-Customer-Support) — NLP chatbot that routes customer queries by sentiment and category, with escalation flagging for negative-sentiment messages.
 
-**Currently:** looking for AI/ML internship opportunities where I can work on real-world data problems.
+**Currently:** looking for internship/job opportunities where I can work on real-world data problems.
 
 📫 Reach me: prabhleenk350@gmail.com · [LinkedIn](https://linkedin.com)
